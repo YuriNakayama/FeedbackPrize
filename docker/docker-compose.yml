@@ -1,8 +1,8 @@
 version: "3"
 services:
-  test:
+  BERT:
     image: datascience-notebook
-    container_name: test
+    container_name: BERT
     user: root
     privileged: true
     build:

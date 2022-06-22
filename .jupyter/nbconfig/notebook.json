@@ -1,0 +1,23 @@
+{
+  "load_extensions": {
+    "autosavetime/main": true,
+    "autoscroll/main": true,
+    "cell_filter/cell_filter": false,
+    "codefolding/main": true,
+    "execute_time/ExecuteTime": true,
+    "freeze/main": true,
+    "highlight_selected_word/main": true,
+    "highlighter/highlighter": true,
+    "hinterland/hinterland": false,
+    "code_prettify/isort": false,
+    "jupyter-black-master/jupyter-black": true,
+    "jupyter-isort-master/jupyter-isort": true,
+    "keyboard_shortcut_editor/main": true,
+    "notify/notify": true,
+    "python-markdown/main": false,
+    "snippets/main": true,
+    "splitcell/splitcell": true,
+    "varInspector/main": false,
+    "toc2/main": true
+  }
+}
