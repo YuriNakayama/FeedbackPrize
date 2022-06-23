@@ -129,4 +129,27 @@ dmypy.json
 .pyre/
 
 # Data file
-*/data/*
+data
+models
+past
+
+# File extension
+*.zip
+*.csv
+*.png
+*.jpeg
+*.pdf
+*.json
+*.txt
+*.jpg
+
+# cache
+.DS_Store
+.jupyter/
+.local/
+.ipynb_checkpoints
+.cache
+.ipython
+mecab-ipadic-neologd
+
+
