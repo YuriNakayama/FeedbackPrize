@@ -137,6 +137,7 @@ dmypy.json
 *.json
 *.txt
 *.jpg
+*.pem
 
 # Data files
 data
@@ -150,4 +151,7 @@ past
 .ipynb_checkpoints
 .cache
 .ipython
+.ssh/
+.nv
+
  

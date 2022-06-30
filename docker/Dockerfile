@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook
+FROM nvidia/cuda:11.2.1-base
 
 USER root
 
